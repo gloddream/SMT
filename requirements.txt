@@ -10,8 +10,6 @@ Pillow==10.2.0
 rich==13.7.0
 scikit-image==0.22.0
 timm==0.6.5
-torch==2.1.1+cu118
-torchinfo==1.8.0
-torchvision==0.16.1+cu118
+
 transformers==4.37.1
 visualizer==0.0.10
